@@ -1,0 +1,5 @@
+.vscode
+fiddler*
+venv
+*.csv
+**/__pycache__
